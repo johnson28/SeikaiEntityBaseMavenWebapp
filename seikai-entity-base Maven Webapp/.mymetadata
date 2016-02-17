@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="seikai-entity-base Maven Webapp"
+  id="myeclipse.1424374950811"
+  context-root="/seikai-entity-base"
+  j2ee-spec="6.0"
+  archive="seikai-entity-base Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
